@@ -1,0 +1,112 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+/// Hacker News story (post)
+model HnStory {
+  id          Int      @id
+  title       String?
+  url         String?
+  text        String?  @db.Text
+  score       Int?
+  by          String?
+  time        Int
+  descendants Int?     @default(0)
+  deleted     Boolean  @default(false)
+  dead        Boolean  @default(false)
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+
+  // Relations
+  comments        HnComment[]
+  scrapedArticle  ScrapedArticle?
+
+  @@index([time])
+  @@index([by])
+  @@index([createdAt])
+}
+
+/// Hacker News comment
+model HnComment {
+  id        Int      @id
+  text      String?  @db.Text
+  by        String?
+  time      Int
+  parent    Int?
+  deleted   Boolean  @default(false)
+  dead      Boolean  @default(false)
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  // Relations
+  storyId Int?
+  story   HnStory? @relation(fields: [storyId], references: [id], onDelete: Cascade)
+
+  @@index([storyId])
+  @@index([parent])
+  @@index([time])
+  @@index([by])
+}
+
+/// Scraped article content from external URLs
+model ScrapedArticle {
+  id         Int      @id @default(autoincrement())
+  url        String   @unique
+  title      String?
+  content    String?  @db.Text
+  status     String   @default("pending") // pending, success, failed
+  error      String?  @db.Text
+  fetchedAt  DateTime?
+  createdAt  DateTime @default(now())
+  updatedAt  DateTime @updatedAt
+
+  // Relations
+  storyId    Int      @unique
+  story      HnStory  @relation(fields: [storyId], references: [id], onDelete: Cascade)
+  embeddings Embedding[]
+
+  @@index([status])
+  @@index([fetchedAt])
+}
+
+/// Vector embeddings for article chunks
+model Embedding {
+  id        Int      @id @default(autoincrement())
+  content   String   @db.Text
+  // embedding field removed temporarily - add via raw SQL after table creation
+  chunkType String   // full, paragraph, sentence
+  metadata  Json?    // Additional metadata (chunk index, position, etc.)
+  createdAt DateTime @default(now())
+
+  // Relations
+  articleId Int
+  article   ScrapedArticle @relation(fields: [articleId], references: [id], onDelete: Cascade)
+
+  @@index([articleId])
+  @@index([chunkType])
+}
+
+/// Task tracking for background jobs
+model Task {
+  id          Int      @id @default(autoincrement())
+  type        String   // fetch-stories, scrape-articles, generate-embeddings
+  status      String   @default("pending") // pending, running, completed, failed
+  startedAt   DateTime?
+  completedAt DateTime?
+  error       String?  @db.Text
+  metadata    Json?    // Additional context (e.g., count, time window)
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+
+  @@index([type])
+  @@index([status])
+  @@index([createdAt])
+}

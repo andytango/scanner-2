@@ -1,0 +1,2685 @@
+=== Historical Story Fetcher Log ===
+Started at: 2025-11-08T23:00:45.430Z
+
+Error processing item 45632225: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Timed out fetching a new connection from the connection pool. More info: http://pris.ly/d/connection-pool (Current connection pool timeout: 10, connection limit: 17)
+Error processing item 45632191: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45632189: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45632180: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45632176: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45632155: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45632153: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45632140: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45632123: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45632117: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45632115: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45632099: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45632098: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45632085: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45632079: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45632068: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45632067: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45632062: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45632040: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45632038: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45632031: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45632028: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45632021: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45632020: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45632008: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45631999: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45631989: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45631974: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45631965: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45631952: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45631937: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45631936: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45631913: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45631885: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45631878: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45631874: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45631867: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45631865: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45631853: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45631852: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45631841: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45631831: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45631830: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45631811: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45631809: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45631786: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45631779: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45631763: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45631762: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45631755: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45631753: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45631751: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45631746: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45631742: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45631732: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45631724: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45631719: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45631710: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45631693: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45631689: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45631686: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45631685: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45631679: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45631678: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45631676: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45631659: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45631640: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45631613: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45631597: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45631594: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45631593: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45631582: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45631570: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45631563: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45631535: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45631527: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45631522: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45631503: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45631494: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45631479: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45631469: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45631455: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45631436: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45631435: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45631432: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45631427: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45631426: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45631410: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45631406: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45631383: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45631382: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45631381: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45631342: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45631339: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45631328: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45631314: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45631303: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45631293: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45631287: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45631265: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45631262: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45631257: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45631244: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45631239: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45631238: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45631232: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45631229: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45631214: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45631212: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45631204: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45631197: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45631193: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45631162: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45631158: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45631156: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45631153: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45631129: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45631126: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45631124: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45631123: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45631094: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45631075: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45631047: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45631043: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45631033: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45631030: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45631029: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45631014: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45631012: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45631005: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45630996: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45630985: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45630968: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45630962: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45630950: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45630948: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45630935: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45630929: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45630916: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45630911: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45630900: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45630897: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45630892: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45630862: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45630851: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45630848: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45630844: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45630833: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45630818: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45630813: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45630801: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45630788: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45630753: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45630751: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45630749: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45630745: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45630723: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45630716: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45630690: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45630680: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45630635: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45630632: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45630630: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45630624: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45630615: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45630611: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45630605: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45630599: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45630583: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45630579: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45630573: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45630571: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45630565: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45630559: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45630548: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45630543: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45630536: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45630530: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45630528: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45630527: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45630516: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45630504: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45630496: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45630495: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45630491: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45630455: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45630449: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45630443: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45630438: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45630428: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45630407: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45630405: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45630400: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45630392: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45630390: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45630386: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45630376: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45630375: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45630362: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45630360: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45630356: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45630353: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45630348: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45630331: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45630323: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45630308: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45630297: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45630289: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45630283: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45630256: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45630251: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45630250: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45630243: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45630241: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45630213: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45630204: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45630190: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45630172: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45630167: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45630160: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45630158: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45630153: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45630149: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45630142: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45630120: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45630115: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45630111: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45630110: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45630108: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45630107: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45630092: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45630089: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45630081: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45630080: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45630078: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45630076: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45630075: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45630073: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45630064: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45630059: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45630058: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45630057: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45630049: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
+Error processing item 45630021: 
+Invalid `prisma.hnStory.findUnique()` invocation in
+/Users/andy/git/github/scanner-2/scripts/fetch-historical-stories.ts:130:41
+
+  127  * @returns True if the story exists
+  128  */
+  129 async function storyExists(storyId: number): Promise<boolean> {
+→ 130   const existing = await prisma.hnStory.findUnique(
+Can't reach database server at `localhost:5433`
+
+Please make sure your database server is running at `localhost:5433`.
